@@ -310,7 +310,7 @@ textarea{
     .redImage {
          background-image: url(../images/camp\ nou.jpg) ;
       max-width: 100%;
-      height: auto;
+      height: 250px;
     }
   }
 
@@ -318,6 +318,6 @@ textarea{
     .campImage {
          background-image: url(../images/camp\ nou.jpg) ;
       max-width: 100%;
-      height: auto;
+      height: 250px;
     }
 }
