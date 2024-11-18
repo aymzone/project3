@@ -308,6 +308,7 @@ textarea{
 
 @media (max-width: 768px) {
     .redImage {
+         background-image: url(../images/camp\ nou.jpg) ;
       max-width: 100%;
       height: auto;
     }
@@ -315,6 +316,7 @@ textarea{
 
 @media (max-width: 768px) {
     .campImage {
+         background-image: url(../images/camp\ nou.jpg) ;
       max-width: 100%;
       height: auto;
     }
